@@ -1,0 +1,15 @@
+.thumbE {
+  height: 180px;
+  width: 180px;
+}
+.thumblist-container {
+  padding: 10px;
+  margin: 10px;
+}
+.img-button {
+  border-width: 0px;
+  padding: 0px;
+  padding-bottom: 0px;
+  border-radius: 10px;
+  background-color: transparent;
+}

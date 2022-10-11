@@ -1,0 +1,17 @@
+.tab-para {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.tablist-container {
+  padding: 10px;
+  margin: 10px;
+}
+.activetab-para {
+  color: #fec653;
+  text-decoration: underline;
+}
